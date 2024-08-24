@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Emirrakarsu
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ?
-- 📫 How to reach me emirrakarsu instagram account
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
 
 <!---
 Emirrakarsu/Emirrakarsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
