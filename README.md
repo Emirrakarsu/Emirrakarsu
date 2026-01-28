@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emirrakarsu
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Management Information Systems
+- 🌱 I’m currently learning python, numpy
 
 
 
