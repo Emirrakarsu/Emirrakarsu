@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emirrakarsu
-- 👀 I’m interested in Management Information Systems
-- 🌱 I’m currently learning python, numpy
+- 👀 My major is Management Information Systems
+- 🌱 I’m currently learning python, numpy, and pandas
 
 
 
